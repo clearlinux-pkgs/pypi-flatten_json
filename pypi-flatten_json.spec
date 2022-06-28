@@ -4,7 +4,7 @@
 #
 Name     : pypi-flatten_json
 Version  : 0.1.13
-Release  : 29
+Release  : 30
 URL      : https://files.pythonhosted.org/packages/cb/be/8f8e563004c7eae0b03be0fc6427a4ce07691c758250fdb31a9e934028d4/flatten_json-0.1.13.tar.gz
 Source0  : https://files.pythonhosted.org/packages/cb/be/8f8e563004c7eae0b03be0fc6427a4ce07691c758250fdb31a9e934028d4/flatten_json-0.1.13.tar.gz
 Summary  : Flatten JSON objects
@@ -79,7 +79,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1656377103
+export SOURCE_DATE_EPOCH=1656404678
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
