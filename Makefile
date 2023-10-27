@@ -1,5 +1,5 @@
 PKG_NAME := pypi-flatten_json
-URL = https://files.pythonhosted.org/packages/cb/be/8f8e563004c7eae0b03be0fc6427a4ce07691c758250fdb31a9e934028d4/flatten_json-0.1.13.tar.gz
+URL = https://files.pythonhosted.org/packages/0f/14/e9b5e4a8dd7edccc9d0791c4ed2180e50b00ab4c19b07081308814dd4e68/flatten_json-0.1.14.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
