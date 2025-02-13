@@ -7,7 +7,7 @@
 #
 Name     : pypi-flatten_json
 Version  : 0.1.14
-Release  : 41
+Release  : 42
 URL      : https://files.pythonhosted.org/packages/0f/14/e9b5e4a8dd7edccc9d0791c4ed2180e50b00ab4c19b07081308814dd4e68/flatten_json-0.1.14.tar.gz
 Source0  : https://files.pythonhosted.org/packages/0f/14/e9b5e4a8dd7edccc9d0791c4ed2180e50b00ab4c19b07081308814dd4e68/flatten_json-0.1.14.tar.gz
 Summary  : Flatten JSON objects
